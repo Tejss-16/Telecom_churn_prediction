@@ -2,7 +2,9 @@
 
 **Overview**
 This project analyzes customer churn for a telecommunications company, building predictive models to identify at-risk customers and provide insights for improving retention.
+
 **note**: CSV Database provided
+
 **1. Data Preparation**
 Loaded and explored the dataset.
 Handled missing values and encoded categorical variables.
